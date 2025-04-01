@@ -26,8 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=echorural&show_icons=true&locale=en&layout=compact" alt="echorural" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=echorural&show_icons=true&locale=en" alt="echorural" /></p>
-<a href="https://www.linkedin.com/in/john-doe">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/808b0f9c24234c05e557310a08e8b529f7949987/src/images/icons/Social/linked-in.svg" />
-</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=echorural&" alt="echorural" /></p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL)
