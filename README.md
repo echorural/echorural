@@ -1,4 +1,4 @@
-![logo](https://github.com/echorural/echorural/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.jpg)
+![logo](https://github.com/echorural/echorural/blob/main/github%20cover.png)
 
 <h1 align="center">Hi 👋, I'm @echrural</h1>
 <h3 align="center">Connecting Rural Artisans with a Global Market</h3>
